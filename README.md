@@ -6,3 +6,5 @@ It is created with:
 - JavaScript
 - React
 - Google Firebase
+
+You can more features also.
