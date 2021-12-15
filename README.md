@@ -7,4 +7,4 @@ It is created with:
 - React
 - Google Firebase
 
-You can more features also.
+You can add more features also.
